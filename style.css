@@ -1,0 +1,19 @@
+#Title {
+    -webkit-text-fill-color: #fff;
+    -webkit-text-stroke: 3px #000;
+    font-family: "Sanchez",
+    serif;
+    color: #fff;
+    font-size: 100px;
+    font-weight: 100;
+    top: 1rem;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.hGz-mFeHFKHBODqUDdydHwHaKQ?o=6&pid=Api&rs=1');
+    background-size: 85rem;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
